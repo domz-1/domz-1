@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Aboelenin</h1>
-<h3 align="center">A passionate frontend developement || React.js</h3>
+<h3 align="center">A passionate frontend developer || React.js</h3>
 
 - 💬 Ask me about **react**
 
