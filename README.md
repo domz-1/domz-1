@@ -7,9 +7,7 @@ I specialize in building intuitive and efficient front-end solutions using moder
 🌟 **Skills and Expertise**  
 
 ### **Languages & Frameworks**  
-<img src="https://img.icons8.com/color/40/000000/html-5.png" width="40" height="40" alt="HTML5 Icon"/> 
-<img src="https://img.icons8.com/color/40/000000/css3.png" width="40" height="40" alt="CSS3 Icon"/> 
-<img src="https://img.icons8.com/color/40/000000/tailwindcss.png" width="40" height="40" alt="Tailwind Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/html-5.png" width="40" height="40" alt="HTML5 Icon"/> <img src="https://img.icons8.com/color/40/000000/css3.png" width="40" height="40" alt="CSS3 Icon"/> <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" width="40" height="40" alt="Tailwind Icon"/> 
 <img src="https://img.icons8.com/color/40/000000/material-ui.png" width="40" height="40" alt="Material UI Icon"/>
 <img src="https://github.com/user-attachments/assets/1dbec9cd-1568-4315-9007-032f9881ba82" width="40" height="40" alt="Bootstrap-reat"/>
 <img src="https://github.com/user-attachments/assets/92c05d6c-f892-44ba-a2bf-4f49920718b3" width="40" height="40" alt="Bootstrap"/>
