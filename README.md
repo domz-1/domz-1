@@ -7,8 +7,7 @@ I specialize in building intuitive and efficient front-end solutions using moder
 🌟 **Skills and Expertise**  
 
 ### **Languages & Frameworks**  
-<img src="https://img.icons8.com/color/40/000000/javascript.png" width="40" height="40" alt="JS Icon"/> 
-<img src="https://img.icons8.com/color/40/000000/typescript.png" width="40" height="40" alt="TS Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/javascript.png" width="40" height="40" alt="JS Icon"/> <img src="https://img.icons8.com/color/40/000000/typescript.png" width="40" height="40" alt="TS Icon"/> 
 <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="40" height="40" alt="React Icon"/> 
 <img src="https://img.icons8.com/color/40/000000/redux.png" width="40" height="40" alt="Redux Icon"/> 
 <img src="https://img.icons8.com/color/40/000000/html-5.png" width="40" height="40" alt="HTML5 Icon"/> 
