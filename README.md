@@ -1,19 +1,54 @@
-<h1>Hi 👋, I'm Adham AbuElenin</h1>
-<p>A passionate frontend developer from Egypt</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/mbr60r6" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/adham-abuelenin" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/clock.adham" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/mbr60r6" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+Here’s a sample README profile for you based on your skills and expertise as a front-end web developer:
+
+---
+
+# 👋 Hello, I'm **Adham AbuElenin**  
+
+**Front-end Web Developer | React JS Enthusiast**  
+
+I specialize in building intuitive and efficient front-end solutions using modern web technologies. My goal is to create dynamic, responsive web experiences with a focus on user engagement and performance optimization.  
+
+🌟 **Skills and Expertise**  
+
+### **Languages & Frameworks**  
+- **JavaScript** ![JS Icon](https://img.icons8.com/color/48/000000/javascript.png)  
+- **TypeScript** ![TS Icon](https://img.icons8.com/color/48/000000/typescript.png)  
+- **React.js** ![React Icon](https://img.icons8.com/ultraviolet/40/000000/react.png)  
+- **Redux.js** ![Redux Icon](https://img.icons8.com/color/48/000000/redux.png)  
+- **HTML5** ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png)  
+- **CSS3** ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)  
+- **Tailwind CSS** ![Tailwind Icon](https://img.icons8.com/color/48/000000/tailwind-css.png)  
+- **Material-UI** ![Material UI Icon](https://img.icons8.com/color/48/000000/material-ui.png)  
+
+### **Tools & Technologies**  
+- **GitHub** ![GitHub Icon](https://img.icons8.com/fluent/48/000000/github.png)  
+- **Docker** ![Docker Icon](https://img.icons8.com/color/48/000000/docker.png)  
+- **Vite** ![Vite Icon](https://vitejs.dev/logo.svg)  
+- **Formik** ![Formik Icon](https://formik.org/img/logo.svg)  
+- **React Dropzone**  
+
+### **Testing & Automation**  
+- **Jest** ![Jest Icon](https://img.icons8.com/color/48/000000/jest.png)  
+- **Unit Testing**  
+
+### **Other Skills**  
+- **Object-Oriented Programming (OOP)**  
+- **Data Management & Entry**  
+- **Project Management**  
+- **Financial Accounting**  
+- **Google Sheets**  
+- **Google Apps Script**  
+- **Microsoft Excel**  
+
+### **Interpersonal Skills**  
+- **Negotiation**  
+- **Event Planning**  
+- **Management**  
+- **Time Management**  
+
+💻 **Projects & Contributions**  
+I am passionate about using React.js and related technologies to create scalable, performant, and visually stunning user interfaces. Feel free to check out some of my recent projects and GitHub repositories.
+
+---
+
+Feel free to tweak the profile further based on your preferences!
