@@ -7,9 +7,18 @@ I specialize in building intuitive and efficient front-end solutions using moder
 🌟 **Skills and Expertise**  
 
 ### **Languages & Frameworks**  
-![JS Icon](https://img.icons8.com/color/40/000000/javascript.png) ![TS Icon](https://img.icons8.com/color/40/000000/typescript.png) ![React Icon](https://img.icons8.com/ultraviolet/40/000000/react.png) ![Redux Icon](https://img.icons8.com/color/40/000000/redux.png) ![HTML5 Icon](https://img.icons8.com/color/40/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/40/000000/css3.png) ![Tailwind Icon](https://img.icons8.com/color/40/000000/tailwindcss.png) ![Material UI Icon](https://img.icons8.com/color/40/000000/material-ui.png)
-![GitHub Icon](https://img.icons8.com/fluent/40/000000/github.png) ![Docker Icon](https://img.icons8.com/color/40/000000/docker.png) ![Vite Icon](https://img.icons8.com/color/40/000000/vite.png) ![Formik Icon]![image](https://github.com/user-attachments/assets/a6bb096a-e79d-48b4-9fd2-91f5f769f18d)
- ![Jest Icon](https://img.icons8.com/color/40/000000/jest.png)
-![Google Sheets Icon]![image](https://github.com/user-attachments/assets/9240846f-e014-4869-bf40-33448511f4be)
- ![Google Apps Script Icon]![image](https://github.com/user-attachments/assets/8e7494e6-17ec-4d83-b15a-7ab7604e5e24)
-
+<img src="https://img.icons8.com/color/40/000000/javascript.png" width="40" height="40" alt="JS Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/typescript.png" width="40" height="40" alt="TS Icon"/> 
+<img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="40" height="40" alt="React Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/redux.png" width="40" height="40" alt="Redux Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/html-5.png" width="40" height="40" alt="HTML5 Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/css3.png" width="40" height="40" alt="CSS3 Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/tailwindcss.png" width="40" height="40" alt="Tailwind Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/material-ui.png" width="40" height="40" alt="Material UI Icon"/>
+<img src="https://img.icons8.com/fluent/40/000000/github.png" width="40" height="40" alt="GitHub Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/docker.png" width="40" height="40" alt="Docker Icon"/> 
+<img src="https://img.icons8.com/color/40/000000/vite.png" width="40" height="40" alt="Vite Icon"/> 
+<img src="https://github.com/user-attachments/assets/2c3ef053-21ba-41b1-89c9-5af3dc3c748b" width="40" height="40" alt="Formik Icon"/> 
+<img src="!https://github.com/user-attachments/assets/94c986e2-170d-4764-8170-f0aebee61b65" width="40" height="40" alt="Jest Icon"/> 
+<img src="https://github.com/user-attachments/assets/15b649c3-afdb-4bc8-9731-7a8952513261" width="40" height="40" alt="Google Sheets Icon"/> 
+<img src="https://github.com/user-attachments/assets/b17d08ea-c19a-4490-8cf3-7dc18fb0216e" width="40" height="40" alt="Google Apps Script Icon"/>
