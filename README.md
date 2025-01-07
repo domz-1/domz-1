@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Adham AbuElenin**  
 
-**Front-end Web Developer | React JS Enthusiast**  
+**Front-end Web Developer**  
 
 I specialize in building intuitive and efficient front-end solutions using modern web technologies. My goal is to create dynamic, responsive web experiences with a focus on user engagement and performance optimization.
 
@@ -23,3 +23,13 @@ I specialize in building intuitive and efficient front-end solutions using moder
 <img src="https://github.com/user-attachments/assets/b17d08ea-c19a-4490-8cf3-7dc18fb0216e" width="40" height="40" alt="Google Apps Script Icon"/>
 <img src="https://github.com/user-attachments/assets/f4f343f9-9fb4-4f6b-acfb-25989da284c4" width="40" height="40" alt="Git"/>
 <img src="https://github.com/user-attachments/assets/ad0d5a9b-435e-49f1-889d-ec1955da6e65" width="40" height="40" alt="py"/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40" alt=""/>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" width="40" height="40" alt=""/>
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/27-256.png" width="40" height="40" alt=""/>
+<img src="https://www.langchain.com/" width="40" height="40" alt=""/>
+<img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/nextjs-fill-256.png" width="40" height="40" alt=""/>
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" width="40" height="40" alt=""/>
+<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/vue_js_logo-256.png" width="40" height="40" alt=""/>
+<img src="" width="40" height="40" alt=""/>
+<img src="" width="40" height="40" alt=""/>
+
