@@ -2,7 +2,9 @@
 
 ### **Front-end Web Developer**  
 
-I specialize in building intuitive and efficient front-end solutions using modern web technologies. My goal is to create dynamic, responsive web experiences with a focus on user engagement and performance optimization.
+Welcome to my GitHub profile! I'm passionate about crafting modern, user-friendly web applications and am constantly exploring innovative technologies to enhance user experience. I thrive on creating scalable, high-performance solutions while ensuring clean and maintainable code. 
+
+Outside of coding, I enjoy problem-solving, staying updated with industry trends, and contributing to open-source projects. Let's collaborate and build something amazing together!
 
 ---
 
@@ -19,7 +21,7 @@ I specialize in building intuitive and efficient front-end solutions using moder
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="40" height="40" alt="React Icon"/>
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="40" height="40" alt="React Icon"/>  
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40" alt="React.js Icon"/>
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/vue_js_logo-256.png" width="40" height="40" alt="Vue.js Icon"/>
   <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="40" height="40" alt="Next.js Icon"/>
@@ -31,7 +33,7 @@ I specialize in building intuitive and efficient front-end solutions using moder
 
 ### **Styling & Design**
 <p align="left">
-  <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" width="40" height="40" alt="Tailwind Icon"/>
+  <img src="https://img.icons8.com/color/40/000000/tailwindcss.png" width="40" height="40" alt="Tailwind Icon"/>  
   <img src="https://img.icons8.com/color/40/000000/material-ui.png" width="40" height="40" alt="Material UI Icon"/>
   <img src="https://github.com/user-attachments/assets/1dbec9cd-1568-4315-9007-032f9881ba82" width="40" height="40" alt="Bootstrap-reat"/>
   <img src="https://github.com/user-attachments/assets/92c05d6c-f892-44ba-a2bf-4f49920718b3" width="40" height="40" alt="Bootstrap"/>
@@ -39,7 +41,7 @@ I specialize in building intuitive and efficient front-end solutions using moder
 
 ### **Tools & Platforms**
 <p align="left">
-  <img src="https://img.icons8.com/fluent/40/000000/github.png" width="40" height="40" alt="GitHub Icon"/>
+  <img src="https://img.icons8.com/fluent/40/000000/github.png" width="40" height="40" alt="GitHub Icon"/>  
   <img src="https://github.com/user-attachments/assets/f4f343f9-9fb4-4f6b-acfb-25989da284c4" width="40" height="40" alt="Git Icon"/>
   <img src="https://img.icons8.com/color/40/000000/docker.png" width="40" height="40" alt="Docker Icon"/>
   <img src="https://img.icons8.com/color/40/000000/vite.png" width="40" height="40" alt="Vite Icon"/>
