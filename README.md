@@ -26,10 +26,9 @@ I specialize in building intuitive and efficient front-end solutions using moder
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40" height="40" alt=""/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" width="40" height="40" alt=""/>
 <img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/27-256.png" width="40" height="40" alt=""/>
-
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-jquery-develop-framework-language-256.png" width="40" height="40" alt=""/>
 <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/vue_js_logo-256.png" width="40" height="40" alt=""/>
-<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/vue_js_logo-256.png" width="40" height="40" alt=""/>
+<img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="40" height="40" alt=""/>
 
 
 
