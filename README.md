@@ -1,11 +1,6 @@
 # 👋 Hello, I'm **Adham AbuElenin**  
 
-### **Front-end Web Developer**  
-
-Welcome to my GitHub profile! I'm passionate about crafting modern, user-friendly web applications and am constantly exploring innovative technologies to enhance user experience. I thrive on creating scalable, high-performance solutions while ensuring clean and maintainable code. 
-
-Outside of coding, I enjoy problem-solving, staying updated with industry trends, and contributing to open-source projects. Let's collaborate and build something amazing together!
-
+💻 Software Engineer | 🌐 Front-End Web Developer @ Code Clouders ☁️| 📱 Mobile Developer (React Native) | 🤖 Interested in AI & RAG | 🚀 Building Scalable, User-Centric Solutions | Intersted in Islamic Finance 💸
 
 ---
 
