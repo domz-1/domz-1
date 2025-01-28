@@ -10,6 +10,13 @@
 
 | 🚀 Building Scalable, User-Centric Solutions 
 
+I am a passionate and detail-oriented Software Engineer with expertise in Front-End Web Development and Mobile Application Development using React Native. Currently, I contribute to innovative projects at Code Clouders ☁️, where I build scalable, user-centric solutions that deliver exceptional digital experiences.
+
+My skill set spans across modern web technologies like React.js, Next.js, and TypeScript, as well as mobile development frameworks like React Native. I am also deeply interested in Artificial Intelligence (AI) and Retrieval-Augmented Generation (RAG), exploring how these cutting-edge technologies can solve real-world problems.
+
+With a strong foundation in UX research, requirements analysis, and team leadership, I thrive in collaborative environments where I can leverage my technical and interpersonal skills to drive projects to success. Whether it’s crafting seamless user interfaces, optimizing performance, or exploring AI-driven solutions, I am committed to delivering high-quality results that make an impact.
+
+Let’s connect and build something amazing together! 🚀
 
 ---
 
