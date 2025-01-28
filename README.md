@@ -1,9 +1,13 @@
 # 👋 Hello, I'm **Adham AbuElenin**  
 
 | 💻 Software Engineer 
+
 | 🌐 Front-End Web Developer @ Code Clouders ☁️
+
 | 📱 Mobile Developer (React Native) 
+
 | 🤖 Interested in AI & RAG 
+
 | 🚀 Building Scalable, User-Centric Solutions 
 
 
