@@ -89,8 +89,5 @@
 
 ---
 
-This structure now prioritizes **Languages** at the top, followed by **Technologies & Development Tools**, and moves **Slack** to the **Communication** section. Let me know if you need further adjustments!
----
-
 Feel free to explore my projects and connect with me through GitHub! Thank you for visiting!
 
