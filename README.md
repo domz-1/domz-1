@@ -1,14 +1,5 @@
 # 👋 Hello, I'm **Adham AbuElenin**  
 
-| 💻 Software Engineer 
-
-| 🌐 Front-End Web Developer @ Code Clouders ☁️
-
-| 📱 Mobile Developer (React Native) 
-
-| 🤖 Interested in AI & RAG 
-
-| 🚀 Building Scalable, User-Centric Solutions 
 
 I am a passionate and detail-oriented Software Engineer with expertise in Front-End Web Development and Mobile Application Development using React Native. Currently, I contribute to innovative projects at Code Clouders ☁️, where I build scalable, user-centric solutions that deliver exceptional digital experiences.
 
